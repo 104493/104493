@@ -1,4 +1,4 @@
-## Pierre ZINS — Cybersecurity Technician
+## Pierre ZINS — Technicien en cybersécurité
 
  Pentest · Offensive Security · OSINT
  Top 2% TryHackMe worldwide
