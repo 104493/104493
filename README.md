@@ -9,4 +9,5 @@
 - **PowerDuck** — USB attack simulation (pentest / social engineering)
 - **KaliPinePhone** — Kali Linux ARM64 dual boot on PinePhone Pro
 - **Secure DB Connection** — Encrypted database authentication
+- **ESP32-Marauder-M5Stick** - Maurauder on M5stick
 
