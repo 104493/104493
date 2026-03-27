@@ -2,7 +2,7 @@
 
 ### Distinctions
 - Pentest · Offensive Security · OSINT
-- Top 2% TryHackMe worldwide
+- Top 2% TryHackMe
 - Hackropole (ANSSI/FCSC) — en cours
 - CTF ORION BELLATRIX — COMCYBER (mars 2026)
 - Grand Est, France
